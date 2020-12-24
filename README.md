@@ -15,4 +15,4 @@
 ## Thanks ❤️
 * https://t.me/nekosecurity
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kurnia44/nekotube/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kurnia44/nekotube1/tree/master)
